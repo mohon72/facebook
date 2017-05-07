@@ -1,0 +1,87 @@
+#name {
+}
+body{
+    margin:0;
+    padding:0;
+}
+img{
+	max-width: 100%;
+	display:block;
+}
+.container {/* background: aliceblue; *//* width: 1366px; */}
+
+.header {background: #3B5998;overflow: hidden;padding: 15px;margin: 0 auto;box-sizing: border-box;width: 1366px;}
+
+.logo {width: 60%;color: white;float: left;}
+.logo h1{margin: 0;font-size: 40px;/* padding-right: 17px; */}
+
+
+.login {float: left;width: 40%;}
+.login form{
+}
+.login label{font-size: 15px;color: white;float: left;margin: 0 44px 2px;}
+.login input[type="text"],
+.login input[type="password"]{width: 40%;margin-right: 5px;display: inline-block;padding: 0px;}
+.login input[type="submit"]{color: white;background: #607bb5;border: 0;padding: 2px 4px;}
+.login a{color: #9bb9d4;text-decoration: none;margin-left: 228px;margin-top: 20px;}
+.wrapper {margin: 0 auto;}
+
+.content {margin: 0 auto;width: 55%;float: left;font-size: 20px;font-weight: 800;}
+.content p{margin: 35px 27px 3px 3px;}
+
+.content img{
+}
+.form-box {width: 45%;float: left;}
+
+.form-pad {
+}
+
+.form-pad h1{font-size: 33px;margin: 20px 0 5px;color: black;}
+.form-pad h1 p{
+}
+
+.form-pad form{
+}
+
+.form-pad form a{text-align: right;margin-right: 15px;}
+.form input[type="text"],
+.form input[type="password"]{
+
+}
+
+.form-pad form select{
+}
+
+.form-pad form select option{
+}
+
+.form-pad a{
+}
+
+.form-pad span{
+}
+
+.form-pad input[type="radio"]{
+}
+
+.form-pad p{margin: 0;font-size: 18px;margin-bottom: 20px;color: black;}
+.form-pad input[type="submit"]{
+	}
+.footer {width: 80%;margin: 0 auto;}
+
+.footer-top {
+}
+
+.language {float: left;width: 100%;display: inline-block;padding: 5px;}
+.language p{
+}
+.language a{
+}
+.fb-sites {
+}
+.fb-sites a{
+}
+.copyright {
+}
+.copyright p{
+}
